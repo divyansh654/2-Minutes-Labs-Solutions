@@ -2,7 +2,7 @@
 
 ## Solution [here](https://youtu.be/5Wzpy6Y2yPk)
 
-### Task 1. Create an API key
+### Task 1. Create an API key 
 
 1. Go to `Credentials` from [here](https://console.cloud.google.com/apis/credentials)
 
